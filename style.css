@@ -2764,6 +2764,11 @@ body:not(.twentyseventeen-front-page) .entry-header {
   margin-bottom: 25px;
 }
 
+.page-template-events .event-list .events-top-row {
+  font-weight: bold;
+  font-size: 18px;
+}
+
 .page-template-events .event-list .event-detail {
   display: inline-block;
   max-width: 296px;
